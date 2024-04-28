@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>30.jpg</filename>
+	<path>/Users/marina/Desktop/NewDatasetRT/jpg/30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Orange star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>555</ymin>
+			<xmax>530</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Blue star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>16</ymin>
+			<xmax>510</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

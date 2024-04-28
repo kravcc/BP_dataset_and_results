@@ -1,0 +1,9 @@
+Orange star
+Orange circle
+Orange square
+Green star
+Green circle
+Green square
+Blue star
+Blue circle
+Blue square

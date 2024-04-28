@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>37.jpg</filename>
+	<path>/Users/marina/Desktop/NewDatasetRT/jpg/37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Green star</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>194</ymin>
+			<xmax>519</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>
